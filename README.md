@@ -6,8 +6,10 @@ Dependency
 Java
 Maven
 
-###libraries used
+# Still Upgrading this framework with multiple changes.....
 Selenium
 TestNG
 log4j
+
+Clone from here: https://github.com/jorabrijesh/SeleniumPOMFramework.git
 
