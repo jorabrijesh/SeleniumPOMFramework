@@ -11,5 +11,5 @@ Selenium
 TestNG
 log4j
 
-Clone from here: https://github.com/jorabrijesh/SeleniumPOMFramework.git
+Clone from: https://github.com/jorabrijesh/SeleniumPOMFramework.git
 
